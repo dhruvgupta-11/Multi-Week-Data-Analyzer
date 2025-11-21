@@ -1,0 +1,58 @@
+Welcome to the Multi-Week Sales Analyzer!
+
+--- Enter Sales Data for WEEK 1 (in ₹) ---
+Enter sales for Monday (₹): 23648
+Enter sales for Tuesday (₹): 23487
+Enter sales for Wednesday (₹): 23486
+Enter sales for Thursday (₹): 27494
+Enter sales for Friday (₹): 23467 
+Enter sales for Saturday (₹): 23479
+Enter sales for Sunday (₹): 64782 
+
+>>> Week 1 Total Sales: ₹209,843.00 recorded.
+
+Do you want to enter data for another week? (yes/no): y
+
+--- Enter Sales Data for WEEK 2 (in ₹) ---
+Enter sales for Monday (₹): 23894 
+Enter sales for Tuesday (₹): 23497 
+Enter sales for Wednesday (₹): 23478 
+Enter sales for Thursday (₹): 23457 
+Enter sales for Friday (₹): 23987
+Enter sales for Saturday (₹): 23093
+Enter sales for Sunday (₹): 78230
+
+>>> Week 2 Total Sales: ₹219,636.00 recorded.
+
+Do you want to enter data for another week? (yes/no): y
+
+--- Enter Sales Data for WEEK 3 (in ₹) ---
+Enter sales for Monday (₹): 23987 
+Enter sales for Tuesday (₹): 12803
+Enter sales for Wednesday (₹): 32098 
+Enter sales for Thursday (₹): 23408  
+Enter sales for Friday (₹): 23479
+Enter sales for Saturday (₹): 23048 
+Enter sales for Sunday (₹): 80932
+
+>>> Week 3 Total Sales: ₹219,755.00 recorded.
+
+Do you want to enter data for another week? (yes/no): n
+
+==================================================
+        COMPREHENSIVE MULTI-WEEK SALES ANALYSIS
+==================================================
+Total Weeks Analyzed: 3
+Grand Total Sales: ₹649,234.00
+Average Weekly Sales: ₹216,411.33
+--------------------------------------------------
+Best Performing Week: Week 3 (Total: ₹219,755.00)
+Worst Performing Week: Week 1 (Total: ₹209,843.00)
+--------------------------------------------------
+Highest Single Day Sale:
+₹80,932.00 on Sunday (Week 3)
+Lowest Single Day Sale:
+₹12,803.00 on Tuesday (Week 3)
+==================================================
+
+Analysis Complete. Thank you!
